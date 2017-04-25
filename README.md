@@ -15,9 +15,7 @@
 1. Se leen dos números enteros
 2. Se ingresan dos valores
 3. Se muestra la suma de "i+j".
-
-![Imagen](Adición.png)
- 
+![Imagen](Adición.png) 
  
 
 # Algoritmo 
