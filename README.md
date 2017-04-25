@@ -16,7 +16,7 @@
 2. Se ingresan dos valores
 3. Se muestra la suma de "i+j".
 
-[](adicion.png)
+[Foto](adicion.png)
  
  
 
