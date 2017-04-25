@@ -16,6 +16,7 @@
 2. Se ingresan dos valores
 3. Se muestra la suma de "i+j".
 
+[Imagen](Adición.pnghttps://github.com/rbalsa/Adicion/blob/master/Adici%C3%B3n.png?raw=true)
 [Imagen](https://github.com/rbalsa/Adicion/blob/master/Adici%C3%B3n.png?raw=true)
  
  
