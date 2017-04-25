@@ -16,7 +16,9 @@
 2. Se ingresan dos valores
 3. Se muestra la suma de "i+j".
 
- src="/rbalsa/Adicion/blob/master/Adici%C3%B3n.png?raw=true" alt="Adición.png">
+ <img src="/rbalsa/Adicion/blob/master/Adici%C3%B3n.png?raw=true" alt="Adición.png">
+ 
+ <img src="(/images/modules/commit/trans_bg.gif)"> 
 
 
 # Algoritmo 
