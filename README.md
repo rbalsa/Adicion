@@ -32,10 +32,10 @@
 
 # Algoritmo 
 
-i,j ∈ Z
-Leer i
-Leer j
-Mostrar i+j = s
+* i,j ∈ Z
+* Leer i
+* Leer j
+* Mostrar i+j = s
 
 
 
