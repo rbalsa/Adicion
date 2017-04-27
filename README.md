@@ -1,7 +1,9 @@
+# 051-04-01
+
 # Adicion
 
 * Asignatura: Algoritmos y Estructura de datos
-* Cruso: K1051
+* Curso: K1051
 * Año: 2017
 * Legajo: 160.757-1
 * Alumno: Ramiro Balsa
